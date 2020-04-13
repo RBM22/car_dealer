@@ -4,6 +4,7 @@ Technologies used
 - MyBatis for Database connectivity (https://mybatis.org/mybatis-3/)
 - Spring security
 - HATEOAS
+- Build tool: Gradle
 
 Application details
 - Port used: 9090
